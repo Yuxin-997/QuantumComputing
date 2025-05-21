@@ -1,0 +1,3 @@
+//Open Jupyter Notebook from D disk using Anaconda Prompt window
+
+jupyter notebook --notebook-dir=D:\
